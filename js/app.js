@@ -40,7 +40,163 @@ var projects = [
     title: 'Business Website 2',
     created: '3/2/2018',
     about: 'Very challenging, but worth it in the end!',
+    image: 'https://picsum.photos/500/500?image=110',
+    details: {
+      bio: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eum voluptas dolorem atque ratione cupiditate ab blanditiis consequuntur laboriosam quibusdam quod odit, eaque eius rem perferendis optio distinctio repudiandae enim?
+      Architecto vero ea dolore voluptatibus accusamus asperiores excepturi esse deleniti tenetur eum et cumque quod sunt officia non quae doloremque impedit, nulla quaerat eaque officiis rerum omnis! Possimus, dolores qui.
+      Iure repellendus dolorum quia distinctio nemo fugiat ipsa nihil reiciendis ad itaque, optio, reprehenderit ex.Impedit hic qui enim iusto, consequatur accusantium distinctio id natus magni excepturi ipsa magnam officiis!`,
+      research: 'Empathy maps, personas, customer journey',
+      images: ['https://picsum.photos/500/500?image=120', 'https://picsum.photos/500/500?image=121']
+    }
+  },
+  {
+    title: 'Business Website 2',
+    created: '3/2/2018',
+    about: 'Very challenging, but worth it in the end!',
+    image: 'https://picsum.photos/500/500?image=112',
+    details: {
+      bio: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eum voluptas dolorem atque ratione cupiditate ab blanditiis consequuntur laboriosam quibusdam quod odit, eaque eius rem perferendis optio distinctio repudiandae enim?
+      Architecto vero ea dolore voluptatibus accusamus asperiores excepturi esse deleniti tenetur eum et cumque quod sunt officia non quae doloremque impedit, nulla quaerat eaque officiis rerum omnis! Possimus, dolores qui.
+      Iure repellendus dolorum quia distinctio nemo fugiat ipsa nihil reiciendis ad itaque, optio, reprehenderit ex.Impedit hic qui enim iusto, consequatur accusantium distinctio id natus magni excepturi ipsa magnam officiis!`,
+      research: 'Empathy maps, personas, customer journey',
+      images: ['https://picsum.photos/500/500?image=120', 'https://picsum.photos/500/500?image=121']
+    }
+  },
+  {
+    title: 'Business Website 2',
+    created: '3/2/2018',
+    about: 'Very challenging, but worth it in the end!',
+    image: 'https://picsum.photos/500/500?image=113',
+    details: {
+      bio: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eum voluptas dolorem atque ratione cupiditate ab blanditiis consequuntur laboriosam quibusdam quod odit, eaque eius rem perferendis optio distinctio repudiandae enim?
+      Architecto vero ea dolore voluptatibus accusamus asperiores excepturi esse deleniti tenetur eum et cumque quod sunt officia non quae doloremque impedit, nulla quaerat eaque officiis rerum omnis! Possimus, dolores qui.
+      Iure repellendus dolorum quia distinctio nemo fugiat ipsa nihil reiciendis ad itaque, optio, reprehenderit ex.Impedit hic qui enim iusto, consequatur accusantium distinctio id natus magni excepturi ipsa magnam officiis!`,
+      research: 'Empathy maps, personas, customer journey',
+      images: ['https://picsum.photos/500/500?image=120', 'https://picsum.photos/500/500?image=121']
+    }
+  },
+  {
+    title: 'Business Website 2',
+    created: '3/2/2018',
+    about: 'Very challenging, but worth it in the end!',
+    image: 'https://picsum.photos/500/500?image=114',
+    details: {
+      bio: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eum voluptas dolorem atque ratione cupiditate ab blanditiis consequuntur laboriosam quibusdam quod odit, eaque eius rem perferendis optio distinctio repudiandae enim?
+      Architecto vero ea dolore voluptatibus accusamus asperiores excepturi esse deleniti tenetur eum et cumque quod sunt officia non quae doloremque impedit, nulla quaerat eaque officiis rerum omnis! Possimus, dolores qui.
+      Iure repellendus dolorum quia distinctio nemo fugiat ipsa nihil reiciendis ad itaque, optio, reprehenderit ex.Impedit hic qui enim iusto, consequatur accusantium distinctio id natus magni excepturi ipsa magnam officiis!`,
+      research: 'Empathy maps, personas, customer journey',
+      images: ['https://picsum.photos/500/500?image=120', 'https://picsum.photos/500/500?image=121']
+    }
+  },
+  {
+    title: 'Business Website 2',
+    created: '3/2/2018',
+    about: 'Very challenging, but worth it in the end!',
+    image: 'https://picsum.photos/500/500?image=115',
+    details: {
+      bio: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eum voluptas dolorem atque ratione cupiditate ab blanditiis consequuntur laboriosam quibusdam quod odit, eaque eius rem perferendis optio distinctio repudiandae enim?
+      Architecto vero ea dolore voluptatibus accusamus asperiores excepturi esse deleniti tenetur eum et cumque quod sunt officia non quae doloremque impedit, nulla quaerat eaque officiis rerum omnis! Possimus, dolores qui.
+      Iure repellendus dolorum quia distinctio nemo fugiat ipsa nihil reiciendis ad itaque, optio, reprehenderit ex.Impedit hic qui enim iusto, consequatur accusantium distinctio id natus magni excepturi ipsa magnam officiis!`,
+      research: 'Empathy maps, personas, customer journey',
+      images: ['https://picsum.photos/500/500?image=120', 'https://picsum.photos/500/500?image=121']
+    }
+  },
+  {
+    title: 'Business Website 2',
+    created: '3/2/2018',
+    about: 'Very challenging, but worth it in the end!',
+    image: 'https://picsum.photos/500/500?image=116',
+    details: {
+      bio: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eum voluptas dolorem atque ratione cupiditate ab blanditiis consequuntur laboriosam quibusdam quod odit, eaque eius rem perferendis optio distinctio repudiandae enim?
+      Architecto vero ea dolore voluptatibus accusamus asperiores excepturi esse deleniti tenetur eum et cumque quod sunt officia non quae doloremque impedit, nulla quaerat eaque officiis rerum omnis! Possimus, dolores qui.
+      Iure repellendus dolorum quia distinctio nemo fugiat ipsa nihil reiciendis ad itaque, optio, reprehenderit ex.Impedit hic qui enim iusto, consequatur accusantium distinctio id natus magni excepturi ipsa magnam officiis!`,
+      research: 'Empathy maps, personas, customer journey',
+      images: ['https://picsum.photos/500/500?image=120', 'https://picsum.photos/500/500?image=121']
+    }
+  },
+  {
+    title: 'Business Website 2',
+    created: '3/2/2018',
+    about: 'Very challenging, but worth it in the end!',
     image: 'https://picsum.photos/500/500?image=100',
+    details: {
+      bio: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eum voluptas dolorem atque ratione cupiditate ab blanditiis consequuntur laboriosam quibusdam quod odit, eaque eius rem perferendis optio distinctio repudiandae enim?
+      Architecto vero ea dolore voluptatibus accusamus asperiores excepturi esse deleniti tenetur eum et cumque quod sunt officia non quae doloremque impedit, nulla quaerat eaque officiis rerum omnis! Possimus, dolores qui.
+      Iure repellendus dolorum quia distinctio nemo fugiat ipsa nihil reiciendis ad itaque, optio, reprehenderit ex.Impedit hic qui enim iusto, consequatur accusantium distinctio id natus magni excepturi ipsa magnam officiis!`,
+      research: 'Empathy maps, personas, customer journey',
+      images: ['https://picsum.photos/500/500?image=120', 'https://picsum.photos/500/500?image=121']
+    }
+  },
+  {
+    title: 'Business Website 2',
+    created: '3/2/2018',
+    about: 'Very challenging, but worth it in the end!',
+    image: 'https://picsum.photos/500/500?image=117',
+    details: {
+      bio: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eum voluptas dolorem atque ratione cupiditate ab blanditiis consequuntur laboriosam quibusdam quod odit, eaque eius rem perferendis optio distinctio repudiandae enim?
+      Architecto vero ea dolore voluptatibus accusamus asperiores excepturi esse deleniti tenetur eum et cumque quod sunt officia non quae doloremque impedit, nulla quaerat eaque officiis rerum omnis! Possimus, dolores qui.
+      Iure repellendus dolorum quia distinctio nemo fugiat ipsa nihil reiciendis ad itaque, optio, reprehenderit ex.Impedit hic qui enim iusto, consequatur accusantium distinctio id natus magni excepturi ipsa magnam officiis!`,
+      research: 'Empathy maps, personas, customer journey',
+      images: ['https://picsum.photos/500/500?image=120', 'https://picsum.photos/500/500?image=121']
+    }
+  },
+  {
+    title: 'Business Website 2',
+    created: '3/2/2018',
+    about: 'Very challenging, but worth it in the end!',
+    image: 'https://picsum.photos/500/500?image=118',
+    details: {
+      bio: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eum voluptas dolorem atque ratione cupiditate ab blanditiis consequuntur laboriosam quibusdam quod odit, eaque eius rem perferendis optio distinctio repudiandae enim?
+      Architecto vero ea dolore voluptatibus accusamus asperiores excepturi esse deleniti tenetur eum et cumque quod sunt officia non quae doloremque impedit, nulla quaerat eaque officiis rerum omnis! Possimus, dolores qui.
+      Iure repellendus dolorum quia distinctio nemo fugiat ipsa nihil reiciendis ad itaque, optio, reprehenderit ex.Impedit hic qui enim iusto, consequatur accusantium distinctio id natus magni excepturi ipsa magnam officiis!`,
+      research: 'Empathy maps, personas, customer journey',
+      images: ['https://picsum.photos/500/500?image=120', 'https://picsum.photos/500/500?image=121']
+    }
+  },
+  {
+    title: 'Business Website 2',
+    created: '3/2/2018',
+    about: 'Very challenging, but worth it in the end!',
+    image: 'https://picsum.photos/500/500?image=119',
+    details: {
+      bio: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eum voluptas dolorem atque ratione cupiditate ab blanditiis consequuntur laboriosam quibusdam quod odit, eaque eius rem perferendis optio distinctio repudiandae enim?
+      Architecto vero ea dolore voluptatibus accusamus asperiores excepturi esse deleniti tenetur eum et cumque quod sunt officia non quae doloremque impedit, nulla quaerat eaque officiis rerum omnis! Possimus, dolores qui.
+      Iure repellendus dolorum quia distinctio nemo fugiat ipsa nihil reiciendis ad itaque, optio, reprehenderit ex.Impedit hic qui enim iusto, consequatur accusantium distinctio id natus magni excepturi ipsa magnam officiis!`,
+      research: 'Empathy maps, personas, customer journey',
+      images: ['https://picsum.photos/500/500?image=120', 'https://picsum.photos/500/500?image=121']
+    }
+  },
+  {
+    title: 'Business Website 2',
+    created: '3/2/2018',
+    about: 'Very challenging, but worth it in the end!',
+    image: 'https://picsum.photos/500/500?image=104',
+    details: {
+      bio: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eum voluptas dolorem atque ratione cupiditate ab blanditiis consequuntur laboriosam quibusdam quod odit, eaque eius rem perferendis optio distinctio repudiandae enim?
+      Architecto vero ea dolore voluptatibus accusamus asperiores excepturi esse deleniti tenetur eum et cumque quod sunt officia non quae doloremque impedit, nulla quaerat eaque officiis rerum omnis! Possimus, dolores qui.
+      Iure repellendus dolorum quia distinctio nemo fugiat ipsa nihil reiciendis ad itaque, optio, reprehenderit ex.Impedit hic qui enim iusto, consequatur accusantium distinctio id natus magni excepturi ipsa magnam officiis!`,
+      research: 'Empathy maps, personas, customer journey',
+      images: ['https://picsum.photos/500/500?image=120', 'https://picsum.photos/500/500?image=121']
+    }
+  },
+  {
+    title: 'Business Website 2',
+    created: '3/2/2018',
+    about: 'Very challenging, but worth it in the end!',
+    image: 'https://picsum.photos/500/500?image=101',
+    details: {
+      bio: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eum voluptas dolorem atque ratione cupiditate ab blanditiis consequuntur laboriosam quibusdam quod odit, eaque eius rem perferendis optio distinctio repudiandae enim?
+      Architecto vero ea dolore voluptatibus accusamus asperiores excepturi esse deleniti tenetur eum et cumque quod sunt officia non quae doloremque impedit, nulla quaerat eaque officiis rerum omnis! Possimus, dolores qui.
+      Iure repellendus dolorum quia distinctio nemo fugiat ipsa nihil reiciendis ad itaque, optio, reprehenderit ex.Impedit hic qui enim iusto, consequatur accusantium distinctio id natus magni excepturi ipsa magnam officiis!`,
+      research: 'Empathy maps, personas, customer journey',
+      images: ['https://picsum.photos/500/500?image=120', 'https://picsum.photos/500/500?image=121']
+    }
+  },
+  {
+    title: 'Business Website 2',
+    created: '3/2/2018',
+    about: 'Very challenging, but worth it in the end!',
+    image: 'https://picsum.photos/500/500?image=103',
     details: {
       bio: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eum voluptas dolorem atque ratione cupiditate ab blanditiis consequuntur laboriosam quibusdam quod odit, eaque eius rem perferendis optio distinctio repudiandae enim?
       Architecto vero ea dolore voluptatibus accusamus asperiores excepturi esse deleniti tenetur eum et cumque quod sunt officia non quae doloremque impedit, nulla quaerat eaque officiis rerum omnis! Possimus, dolores qui.
@@ -89,7 +245,11 @@ $('main.home .project').each(function(index, project_div) {
 
   // Adds a click event to each project div
   $(project_div).click(function() {
-    $(this).find('.modal').addClass('show');
+    $('.modal').removeClass('show');
+
+    var modal = $(this).find('.modal');
+
+    modal.addClass('show').css('top', $(document).scrollTop() + 40 + 'px');
   });
 
   $(project_div).find('.modal button').click(function(event) {
@@ -98,6 +258,17 @@ $('main.home .project').each(function(index, project_div) {
   });
 });
 
+
+$('.fa-bars').click(function() {
+  $('header nav').addClass('show');
+});
+
+$('.fa-times').click(function () {
+  $('header nav').removeClass('show');
+});
+
+
+$('html, body').css('height', document.innerHeight + 'px');
 
 
 
